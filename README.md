@@ -1,2 +1,3 @@
-# Orientado-Objetos-JavaScript
-Curso da School Of Net
+# Orientado Objetos JavaScript
+
+Curso da School Of Net. Apredendo orientação a objetos com Java Script.
